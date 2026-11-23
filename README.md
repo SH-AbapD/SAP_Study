@@ -148,7 +148,7 @@ SAP ERP 업무와 ABAP, RAP 개발을 공부하며 이해한 내용을 정리합
 목표: 데이터 타입과 저장, 조회 구조를 이해하고 구현 이유를 설명한다.
 
 - [x] [Classic ABAP, ABAP Objects, Modern ABAP의 흐름](basic/Classic%20ABAP,ABAP%20Objects,Modern%20ABAP의%20흐름.md)
-- [ ] 기본 데이터 타입과 Complete/Incomplete Type
+- [x] [기본 데이터 타입과 Complete/Incomplete Type](basic/기본%20데이터%20타입과%20Complete,Incomplete%20Type.md)
 - [ ] TYPE, LIKE, REF TO의 차이
 - [ ] Domain, Data Element, Structure, Table Type
 - [ ] Data Element의 의미와 재사용
