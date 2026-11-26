@@ -152,8 +152,7 @@ SAP ERP 업무와 ABAP, RAP 개발을 공부하며 이해한 내용을 정리합
 - [x] [TYPE, LIKE, REF TO의 차이](ABAP/TYPE,%20LIKE,%20REF%20TO의%20차이.md)
 - [x] [Domain, Data Element, Structure, Table Type](ABAP/Domain,%20Data%20Element,%20Structure,%20Table%20Type.md)
 - [x] [Data Element의 의미와 재사용](ABAP/Data%20Element의%20의미와%20재사용.md)
-- [ ] Database Table과 Internal Table의 차이
-- [ ] MANDT와 Client, dependent 데이터
+- [x] [Database Table과 Internal Table의 차이](ABAP/Database%20Table과%20Internal%20Table의%20차이.md)
 
 ### RAP — RESTful ABAP Programming Model
 
